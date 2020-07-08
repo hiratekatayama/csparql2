@@ -19,4 +19,3 @@ Implemented using Yasper Common Library
     </dependency>
 </dependencies>
 ```
-# csparql2
